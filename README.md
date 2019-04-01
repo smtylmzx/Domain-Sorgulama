@@ -11,4 +11,4 @@ Projede Yöncü Bilişim Çözümleri Limited Şirketi tarafından sunulan domai
 
 domainadi.com alanlarını sorgulamak istediğiniz domain bilgileriyle değiştirmeniz yeterlidir.
 
->*Not:* Sık yapılan sorgular engellenmeye sebep olabilir. Günlük cron'a bağlamak daha sağlıklı olacaktır.
+>**Not:** Sık yapılan sorgular engellenmeye sebep olabilir. Günlük cron'a bağlamak daha sağlıklı olacaktır.
