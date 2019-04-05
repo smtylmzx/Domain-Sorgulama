@@ -1,4 +1,4 @@
-# Domain-Sorgulama-Kontrol-API
+# Domain Sorgulama Kontrol Servis-(Domain Control Service)
 
 Curl kütüphanesi ile yazılmış domain kontrol servisidir. 
 
